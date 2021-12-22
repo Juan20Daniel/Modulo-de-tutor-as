@@ -1,0 +1,53 @@
+.bg-nav{
+    background-color: #204761;
+}
+.list{
+    list-style:none;
+}
+
+.foolder{
+    background-color: #204761;
+    height: 43px;
+}
+.footer-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    padding-top: 0.3em;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.color{
+    color: white;
+}
+
+.margin-left{ 
+    margin-left: 40px !important; 
+}
+
+.ocultar{
+    display: none;
+}
+.identificasion{
+    height:100%;
+    
+}
+
+.size{
+    width: 100px;
+}
+
+.border{
+    border: none
+}
+
+.colorHomeA{
+    background-color:#9DA1A3;
+}
+
+.estatic{
+    background-attachment: fixed;
+    overflow: scroll;
+}
